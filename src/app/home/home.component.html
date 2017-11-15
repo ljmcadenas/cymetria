@@ -1,0 +1,18 @@
+<section>
+  <h2>Tus Cursos</h2>
+
+  <div class="row justify-content-center">
+    <div class="col-4 text-center" *ngFor="let course of courses">
+      <article>
+        <a routerLink="/curso/{{course.name}}">
+          <div class="card mx-auto">
+            <img class="card-img-top" src="assets/images/{{course.logo}}" alt="{{course.name}}">
+            <div class="card-block">
+              <p class="card-text">{{course.name}}</p>
+            </div>
+          </div>
+        </a>
+      </article> 
+    </div>
+  </div>
+</section>

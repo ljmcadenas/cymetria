@@ -1,0 +1,18 @@
+<section>
+  <div class="row navigation">
+    <div class="col">
+      <button type="button" class="btn btn-info" (click)="back()">Volver</button>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-4" >
+      <img class="card-img-top" src="assets/images/{{course.logo}}" alt="{{course.name}}">
+    </div>
+    <div class="col-8">
+      <h2>{{course.name}}</h2>
+
+      <p>{{course.description}}</p>
+    </div>
+  </div>
+</section>

@@ -1,0 +1,31 @@
+{
+	"users": [
+		{
+			"name": "Leonardo",
+			"email": "ljmcadenas@gmail.com",
+			"password": "123"
+		},
+		{
+			"name": "Giovanny",
+			"email": "giovanny@gmail.com",
+			"password": "1234"
+		}
+	],
+	"courses": [
+		{
+			"name": "Angular",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla hendrerit tellus ut cursus dignissim. Proin pharetra odio urna, sed pulvinar mi finibus cursus. Donec iaculis, tortor id porttitor ultricies, velit libero condimentum mi, sed laoreet metus purus non odio. Morbi dictum urna orci, eu fermentum enim blandit vel. Praesent ullamcorper tempor consectetur. Donec ut turpis at diam sodales condimentum sit amet vitae libero. Morbi accumsan dolor in viverra condimentum. Morbi ante est, facilisis a augue vulputate, scelerisque luctus urna. Curabitur ultricies ligula tortor, eget sagittis enim dapibus sit amet.",
+			"logo": "angular.svg"
+		},
+		{
+			"name": "HTML5",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla hendrerit tellus ut cursus dignissim. Proin pharetra odio urna, sed pulvinar mi finibus cursus. Donec iaculis, tortor id porttitor ultricies, velit libero condimentum mi, sed laoreet metus purus non odio. Morbi dictum urna orci, eu fermentum enim blandit vel. Praesent ullamcorper tempor consectetur. Donec ut turpis at diam sodales condimentum sit amet vitae libero. Morbi accumsan dolor in viverra condimentum. Morbi ante est, facilisis a augue vulputate, scelerisque luctus urna. Curabitur ultricies ligula tortor, eget sagittis enim dapibus sit amet.",
+			"logo": "html5.png"
+		},
+		{
+			"name": "CSS",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla hendrerit tellus ut cursus dignissim. Proin pharetra odio urna, sed pulvinar mi finibus cursus. Donec iaculis, tortor id porttitor ultricies, velit libero condimentum mi, sed laoreet metus purus non odio. Morbi dictum urna orci, eu fermentum enim blandit vel. Praesent ullamcorper tempor consectetur. Donec ut turpis at diam sodales condimentum sit amet vitae libero. Morbi accumsan dolor in viverra condimentum. Morbi ante est, facilisis a augue vulputate, scelerisque luctus urna. Curabitur ultricies ligula tortor, eget sagittis enim dapibus sit amet.",
+			"logo": "css.png"
+		}
+	]
+}
